@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DLOVRIC2
-- 👀 I’m interested in AI, Machine Learning, Algorithmic Trading
-- 🗃️ Check out: https://dominic-lovric.vercel.app/
+- 👀 I’m interested in AI/ML
+- 🗃️ Check out: https://algorise.co.uk
 - 📫 How to reach me dominic@algorise.co.uk
